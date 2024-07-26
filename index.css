@@ -1,0 +1,9 @@
+#parent {
+    #child1 h1 {
+        color: red
+    }
+
+    #child2 h1 {
+        color: blue
+    }
+}
